@@ -26,6 +26,8 @@ We collected several features for house renovations .
 ## Conclusions
 
 To sum up , in relation of increasing the squarefoot living , numbers of bedrooms and high quality condition of the house might increase the value in the future .
+
+
 ![Screenshot 2022-10-30 151422](https://user-images.githubusercontent.com/112393492/198863218-1be185c6-0a97-442c-9e0b-6c82e62429dd.png)
 ![Screenshot 2022-10-30 151505](https://user-images.githubusercontent.com/112393492/198863221-656da0b9-677c-4fa5-a6ca-936fb5d270ad.png)
 ![Screenshot 2022-10-30 151540](https://user-images.githubusercontent.com/112393492/198863223-1c663498-023c-41bb-9e6c-2629154fdbfe.png)
